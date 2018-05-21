@@ -1,0 +1,510 @@
+sip.aguiacred	IN	CNAME	netuno
+
+login.aguiacred	IN	CNAME	netuno
+
+supervisao.aguiacred	IN	CNAME	mercurio
+
+vipadmin.aguiacred	IN	CNAME	netuno
+
+ramais.aguiacred	IN	CNAME	netuno
+
+remoto.aguiacred	IN	CNAME	netuno
+
+sip.akrk	IN	CNAME	netuno
+
+login.akrk	IN	CNAME	netuno
+
+supervisao.akrk	IN	CNAME	mercurio
+
+sip.anjoazul	IN	CNAME	netuno
+
+login.anjoazul	IN	CNAME	netuno
+
+supervisao.anjoazul	IN	CNAME	mercurio
+
+sip.aporte	IN	CNAME	netuno
+
+login.aporte	IN	CNAME	netuno
+
+supervisao.aporte	IN	CNAME	mercurio
+
+sip.aprendiz	IN	CNAME	netuno
+
+login.aprendiz	IN	CNAME	netuno
+
+supervisao.aprendiz	IN	CNAME	mercurio
+
+vipadmin.assuncao	IN	CNAME	assuncao
+
+sip.assuncao	IN	CNAME	assuncao
+
+login.assuncao	IN	CNAME	assuncao
+
+supervisao.assuncao	IN	CNAME	assuncao
+
+discador.assuncao	IN	CNAME	assuncao
+
+banco.assuncao	IN	CNAME	assuncao
+
+vcontas.assuncao	IN	CNAME	assuncao
+
+ramais.assuncao	IN	CNAME	assuncao
+
+remoto.assuncao	IN	CNAME	assuncao
+
+recursos.assuncao	IN	CNAME	assuncao
+
+suporte.assuncao	IN	CNAME	assuncao
+
+sip.assuncao-for	IN	CNAME	assuncao
+
+sip.assuncao-nat	IN	CNAME	assuncao
+
+vipadmin.assuncao.sl	IN	CNAME	assuncao.sl
+
+sip.assuncao.sl	IN	CNAME	assuncao.sl
+
+login.assuncao.sl	IN	CNAME	assuncao.sl
+
+supervisao.assuncao.sl	IN	CNAME	assuncao.sl
+
+ramais.assuncao.sl	IN	CNAME	assuncao.sl
+
+remoto.assuncao.sl	IN	CNAME	assuncao.sl
+
+banco.assuncao.sl	IN	CNAME	assuncao.sl
+
+vcontas.assuncao.sl	IN	CNAME	assuncao.sl
+
+recursos.assuncao.sl	IN	CNAME	assuncao.sl
+
+suporte.assuncao.sl	IN	CNAME	assuncao.sl
+
+sip.belarina	IN	CNAME	belarina
+
+ramais.belarina	IN	CNAME	belarina
+
+vipadmin.belarina	IN	CNAME	belarina
+
+suporte.belarina	IN	CNAME	belarina
+
+banco.belarina	IN	CNAME	belarina
+
+vcontas.belarina	IN	CNAME	belarina
+
+supervisao.belarina	IN	CNAME	belarina
+
+sip.broadcast	IN	CNAME	netuno
+
+login.broadcast	IN	CNAME	netuno
+
+supervisao.broadcast	IN	CNAME	mercurio
+
+vipadmin.broadcast	IN	CNAME	netuno
+
+remoto.broadcast	IN	CNAME	bradcast
+
+ramais.broadcast	IN	CNAME	bradcast
+
+sip.cgg-go	IN	CNAME	cgg-go
+
+vcontas.cgg-go	IN	CNAME	cgg-go
+
+banco.cgg-go	IN	CNAME	cgg-go
+
+vipadmin.cgg-go	IN	CNAME	cgg-go
+
+supervisao.cgg-go	IN	CNAME	cgg-go
+
+sip.claricell	IN	CNAME	netuno
+
+login.claricell	IN	CNAME	netuno
+
+supervisao.claricell	IN	CNAME	mercurio
+
+vipadmin.claricell	IN	CNAME	netuno
+
+sip.dequit	IN	CNAME	netuno
+
+login.dequit	IN	CNAME	netuno
+
+supervisao.dequit	IN	CNAME	mercurio
+
+sip.dmd	IN	CNAME	netuno
+
+login.dmd	IN	CNAME	netuno
+
+supervisao.dmd	IN	CNAME	mercurio
+
+vipadmin.dmd	IN	CNAME	netuno
+
+sip.dracones	IN	CNAME	netuno
+
+login.dracones	IN	CNAME	netuno
+
+supervisao.dracones	IN	CNAME	mercurio
+
+vipadmin.dracones	IN	CNAME	netuno
+
+sip.fit	IN	CNAME	fit
+
+supervisao.fit	IN	CNAME	fit
+
+vipadmin.fit	IN	CNAME	fit
+
+login.fit	IN	CNAME	fit
+
+ramais.fit	IN	CNAME	fit
+
+remoto.fit	IN	CNAME	fit
+
+sip.gmg	IN	CNAME	netuno
+
+login.gmg	IN	CNAME	netuno
+
+supervisao.gmg	IN	CNAME	mercurio
+
+vipadmin.gmg	IN	CNAME	netuno
+
+sip.herlog	IN	CNAME	netuno
+
+login.herlog	IN	CNAME	netuno
+
+supervisao.herlog	IN	CNAME	mercurio
+
+sip.lance	IN	CNAME	netuno
+
+login.lance	IN	CNAME	netuno
+
+supervisao.lance	IN	CNAME	mercurio
+
+vipadmin.lance	IN	CNAME	netuno
+
+voipmundo	IN	CNAME	locer
+
+sip.locer	IN	CNAME	locer
+
+supervisao.locer	IN	CNAME	locer
+
+login.locer	IN	CNAME	locer
+
+ramais.locer	IN	CNAME	locer
+
+remoto.locer	IN	CNAME	locer
+
+vipadmin.locer	IN	CNAME	locer
+
+sip.maiscallcenter	IN	CNAME	maiscallcenter
+
+login.maiscallcenter	IN	CNAME	maiscallcenter
+
+supervisao.maiscallcenter	IN	CNAME	maiscallcenter
+
+vipadmin.maiscallcenter	IN	CNAME	maiscallcenter
+
+ramais.maiscallcenter	IN	CNAME	maiscallcenter
+
+remoto.maiscallcenter	IN	CNAME	maiscallcenter
+
+banco.maiscallcenter	IN	CNAME	maiscallcenter
+
+vcontas.maiscallcenter	IN	CNAME	maiscallcenter
+
+suporte.maiscallcenter	IN	CNAME	maiscallcenter
+
+sip.persone	IN	CNAME	netuno
+
+login.persone	IN	CNAME	netuno
+
+supervisao.persone	IN	CNAME	mercurio
+
+vipadmin.persone	IN	CNAME	netuno
+
+sip.pop-brasilia	IN	CNAME	saturno
+
+login.pop-brasilia	IN	CNAME	saturno
+
+supervisao.pop-brasilia	IN	CNAME	mercurio
+
+vipadmin.pop-brasilia	IN	CNAME	saturno
+
+remoto.pop-rio	IN	CNAME	pop-rio
+
+ramais.pop-rio	IN	CNAME	pop-rio
+
+banco.pop-rio	IN	CNAME	pop-rio
+
+suporte.pop-rio	IN	CNAME	pop-rio
+
+vcontas.pop-rio	IN	CNAME	pop-rio
+
+sip.pop-rio	IN	CNAME	pop-rio
+
+login.pop-rio	IN	CNAME	pop-rio
+
+supervisao.pop-rio	IN	CNAME	pop-rio
+
+vipadmin.pop-rio	IN	CNAME	pop-rio
+
+supervisao.pop-sp	IN	CNAME	mercurio
+
+login.pop-sp	IN	CNAME	saturno
+
+sip.pop-sp	IN	CNAME	saturno
+
+vipadmin.pop-sp	IN	CNAME	saturno
+
+vip.pop-sp	IN	CNAME	saturno
+
+voip.pop-sp	IN	CNAME	saturno
+
+vcontas.pop-sp	IN	CNAME	saturno
+
+sip.popcred	IN	CNAME	netuno
+
+login.popcred	IN	CNAME	netuno
+
+supervisao.popcred	IN	CNAME	mercurio
+
+vipadmin.popcred	IN	CNAME	netuno
+
+sip.promoserv	IN	CNAME	netuno
+
+login.promoserv	IN	CNAME	netuno
+
+supervisao.promoserv	IN	CNAME	mercurio
+
+vipadmin.promoserv	IN	CNAME	netuno
+
+sip.ramosesilva	IN	CNAME	ramosesilva
+
+supervisao.ramosesilva	IN	CNAME	ramosesilva
+
+login.ramosesilva	IN	CNAME	ramosesilva
+
+vipadmin.ramosesilva	IN	CNAME	ramosesilva
+
+suporte.ramosesilva	IN	CNAME	ramosesilva
+
+ramais.ramosesilva	IN	CNAME	ramosesilva
+
+remoto.ramosesilva	IN	CNAME	ramosesilva
+
+munin.ramosesilva	IN	CNAME	ramosesilva
+
+recursos.ramosesilva	IN	CNAME	ramosesilva
+
+banco.ramosesilva	IN	CNAME	ramosesilva
+
+vcontas.ramosesilva	IN	CNAME	ramosesilva
+
+sip.reliquia	IN	CNAME	netuno
+
+login.reliquia	IN	CNAME	netuno
+
+supervisao.reliquia	IN	CNAME	mercurio
+
+vipadmin.reliquia	IN	CNAME	netuno
+
+antenas.voz.revitalle	IN	CNAME	revitalle
+
+ramais.revitalle	IN	CNAME	revitalle
+
+sip.revitalle	IN	CNAME	revitalle
+
+sip.revitalle.rj	IN	CNAME	revitalle
+
+login.revitalle	IN	CNAME	revitalle
+
+login.revitalle.rj	IN	CNAME	revitalle
+
+supervisao.revitalle	IN	CNAME	revitalle
+
+supervisao.revitalle.rj	IN	CNAME	revitalle
+
+vipadmin.revitalle	IN	CNAME	revitalle
+
+vcontas.revitalle	IN	CNAME	revitalle
+
+recursos.revitalle	IN	CNAME	revitalle
+
+banco.revitalle	IN	CNAME	revitalle
+
+suporte.revitalle	IN	CNAME	revitalle
+
+sip.scscred	IN	CNAME	netuno
+
+login.scscred	IN	CNAME	netuno
+
+supervisao.scscred	IN	CNAME	mercurio
+
+vipadmin.scscred	IN	CNAME	netuno
+
+sip.trofelli	IN	CNAME	netuno
+
+login.trofelli	IN	CNAME	netuno
+
+supervisao.trofelli	IN	CNAME	mercurio
+
+vipadmin.trofelli	IN	CNAME	netuno
+
+ramais.trofelli	IN	CNAME	netuno
+
+remoto.trofelli	IN	CNAME	netuno
+
+sip.trinity	IN	CNAME	netuno
+
+login.trinity	IN	CNAME	netuno
+
+supervisao.trinity	IN	CNAME	mercurio
+
+vipadmin.trinity	IN	CNAME	netuno
+
+sip.mastermed	IN	CNAME	netuno
+
+login.mastermed	IN	CNAME	netuno
+
+supervisao.mastermed	IN	CNAME	mercurio
+
+ramais.pop-sp	IN	CNAME	saturno
+
+discador.pop-sp	IN	CNAME	saturno
+
+ftp.pop-sp	IN	CNAME	saturno
+
+webapps.pop-sp	IN	CNAME	saturno
+
+latencia.saturno	IN	CNAME	saturno
+
+recursos.saturno	IN	CNAME	saturno
+
+munin.saturno	IN	CNAME	saturno
+
+banco.saturno	IN	CNAME	saturno
+
+vipadmin.saturno	IN	CNAME	saturno
+
+monitoramento.saturno	IN	CNAME	saturno
+
+vcontas.saturno	IN	CNAME	saturno
+
+suporte.saturno	IN	CNAME	saturno
+
+latencia.netuno	IN	CNAME	netuno
+
+recursos.netuno	IN	CNAME	netuno
+
+munin.netuno	IN	CNAME	netuno
+
+banco.netuno	IN	CNAME	netuno
+
+vcontas.netuno	IN	CNAME	netuno
+
+vipadmin.netuno	IN	CNAME	netuno
+
+monitoramento.netuno	IN	CNAME	netuno
+
+suporte.netuno	IN	CNAME	netuno
+
+snep2.netuno	IN	CNAME	netuno
+
+remoto.netuno	IN	CNAME	netuno
+
+latencia.mercurio	IN	CNAME	mercurio
+
+recursos.mercurio	IN	CNAME	mercurio
+
+munin.mercurio	IN	CNAME	mercurio
+
+banco.mercurio	IN	CNAME	mercurio
+
+vipadmin.mercurio	IN	CNAME	mercurio
+
+monitoramento.mercurio	IN	CNAME	mercurio
+
+venus	IN	CNAME	netuno
+
+banco.venus	IN	CNAME	netuno
+
+remoto.venus	IN	CNAME	netuno
+
+bdo	IN	CNAME	netuno
+
+storage.pop-sp	IN	CNAME	storage
+
+www.storage	IN	CNAME	storage
+
+banco.storage	IN	CNAME	storage
+
+viparquivos.pop-sp	IN	CNAME	storage
+
+arquivos.pop-sp	IN	CNAME	storage
+
+arquivos	IN	CNAME	storage
+
+vcell2.vdc	IN	CNAME	jupter
+
+munin.jupter	IN	CNAME	jupter
+
+recursos.jupter	IN	CNAME	jupter
+
+banco.jupter	IN	CNAME	jupter
+
+vipadmin.jupter	IN	CNAME	jupter
+
+testecareca.jupter	IN	CNAME	jupter
+
+ramais.seconci	IN	CNAME	seconci
+
+remoto.seconci	IN	CNAME	seconci
+
+login.seconci	IN	CNAME	seconci
+
+supervisao.seconci	IN	CNAME	seconci
+
+vipadmin.seconci	IN	CNAME	seconci
+
+banco.seconci	IN	CNAME	seconci
+
+vcontas.seconci	IN	CNAME	seconci
+
+latencia.seconci	IN	CNAME	seconci
+
+recursos.seconci	IN	CNAME	seconci
+
+suporte.seconci	IN	CNAME	seconci
+
+vipadmin.ubla	IN	CNAME	ubla
+
+sip.ubla	IN	CNAME	ubla
+
+login.ubla	IN	CNAME	ubla
+
+supervisao.ubla	IN	CNAME	ubla
+
+vipadmin.ublasp	IN	CNAME	ubla
+
+sip.ublasp	IN	CNAME	ubla
+
+login.ublasp	IN	CNAME	ubla
+
+supervisao.ublasp	IN	CNAME	ubla
+
+login.promotoras	IN	CNAME	netuno
+
+supervisao.promotoras	IN	CNAME	mercurio
+
+vipadmin.promotoras	IN	CNAME	netuno
+
+vcontas.promotoras	IN	CNAME	netuno
+
+vcash.promotoras	IN	CNAME	netuno
+
+vipadmin.intevoip	IN	CNAME	netuno
+
+sip.intevoip	IN	CNAME	netuno
+
+login.intevoip	IN	CNAME	netuno
+
+supervisao.intevoip	IN	CNAME	mercurio
+
